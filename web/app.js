@@ -2539,7 +2539,7 @@ if (typeof PDFJSDev === "undefined" || PDFJSDev.test("GENERIC")) {
     "null",
     "http://mozilla.github.io",
     "https://mozilla.github.io",
-    "https://anhnn87.github.io",
+    "https://afund-2025.github.io",
     "http://localhost:8888",
   ]);
   // eslint-disable-next-line no-var

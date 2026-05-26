@@ -45,6 +45,7 @@ Chrome, go to `Tools > Extension` and load the (unpackaged) extension from the
 directory `build/chromium`.
 
 ### PDF debugger
+test ci/cd
 
 Browser the internal structure of a PDF document with https://mozilla.github.io/pdf.js/internal-viewer/web/debugger.html
 
